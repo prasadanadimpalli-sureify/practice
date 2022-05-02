@@ -1,0 +1,11 @@
+<UserAuthRequest>
+		<UserLoginName>amica103test</UserLoginName>
+		<UserPswd>
+			<CryptType>NONE</CryptType>
+			<Pswd>fe539c2zhCH3Mzka</Pswd>
+		</UserPswd>
+		<VendorApp>
+			<VendorName VendorCode="220">iPipeline</VendorName>
+			<AppName>iGo Forms</AppName>
+		</VendorApp>
+</UserAuthRequest>
